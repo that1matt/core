@@ -408,6 +408,8 @@ build.json @home-assistant/supervisor
 /tests/components/garages_amsterdam/ @klaasnicolaas
 /homeassistant/components/gdacs/ @exxamalte
 /tests/components/gdacs/ @exxamalte
+/homeassistant/components/generac_pwrview/ @that1matt
+/tests/components/generac_pwrview/ @that1matt
 /homeassistant/components/generic/ @davet2001
 /tests/components/generic/ @davet2001
 /homeassistant/components/generic_hygrostat/ @Shulyaka

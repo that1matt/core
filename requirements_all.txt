@@ -1185,6 +1185,7 @@ netmap==0.7.0.2
 # homeassistant.components.nam
 nettigo-air-monitor==2.1.0
 
+# homeassistant.components.generac_pwrview
 # homeassistant.components.neurio_energy
 neurio==0.3.1
 

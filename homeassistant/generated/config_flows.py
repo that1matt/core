@@ -149,6 +149,7 @@ FLOWS = {
         "fully_kiosk",
         "garages_amsterdam",
         "gdacs",
+        "generac_pwrview",
         "generic",
         "geocaching",
         "geofency",
